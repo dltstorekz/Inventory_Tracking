@@ -1,2 +1,5 @@
-# Inventory_Tracking
-DLT Store Inventory Tracking
+# Inventory_Tracking  
+Автоматизированный учёт товаров DLT Store через Telegram и GitHub.  
+
+## Описание  
+Система позволяет отслеживать поступления, продажи и перемещения товаров через Telegram-бот. Данные хранятся в GitHub в формате JSON.  
